@@ -16,7 +16,7 @@ The aim is to quantify trade-offs between:
 
 
 ### Repository Structure
-spa_analysis/
+```spa_analysis/
 ├── core/ # Fitness function + penalties (preference, capacity, eligibility)
 ├── fairness/ # Fairness metrics (e.g., Gini, leximin helpers)
 ├── hill_climbing/ # HC operators and search driver (hc_main.py)
@@ -38,7 +38,7 @@ spa_analysis/
 ├── CONTRIBUTING.md # Policy on contributions (none allowed)
 ├── SECURITY.md # Security policy (academic use only)
 └── init.py # Marks package root
-
+```
 
 ### Optimisation Objective (minimise)
 
