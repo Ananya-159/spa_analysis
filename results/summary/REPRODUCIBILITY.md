@@ -6,7 +6,7 @@ These notes capture the exact snapshot and configuration used to generate the di
 
 ### Repository Snapshot
 
-- **Commit SHA:** <paste from `git rev-parse HEAD`>
+- **Commit SHA:** 0f1aad50db18a644f5600e55b9b575e6d389d96f
 - **Python:** `Python 3.12.4`
 - **Environment:** `requirements.txt` (pinned) / `environment.yml`
 - **Dataset:** `data/SPA_Dataset_With_Min_Max_Capacity.xlsx`
