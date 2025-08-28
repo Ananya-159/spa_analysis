@@ -1,0 +1,19 @@
+
+
+# .gitignore for SPA Dissertation Repo – keeps repo clean from caches, results, and OS junk
+
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+env/
+*.pyc
+.DS_Store
+
+# Results & artifacts (keep committed ones if you want history)
+results/*summary_*.png
+results/*summary_*.pdf
+results/*convergence*.csv
+
+# OS junk
+Thumbs.db

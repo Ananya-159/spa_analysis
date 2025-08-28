@@ -1,0 +1,20 @@
+# Smoke Test Summary (2025-08-19T17:45:57Z)
+**Script version:** 1.0 (2025-08-19)
+
+**Dataset hash:** 4226630e35b8d516f575f1d97da31ec1cc2ccc979d1eccf0ec5f862d4a0e5084
+
+## UTILS: list_to_alloc_df()
+| case        |   Student ID | assigned_project   |   assigned_rank |   _rank_oob_violation |
+|:------------|-------------:|:-------------------|----------------:|----------------------:|
+| utils_clean |            1 | P1                 |               1 |                     0 |
+| utils_clean |            2 | P2                 |               1 |                     0 |
+| utils_clean |            3 | P3                 |               1 |                     0 |
+| utils_oob   |            1 | P1                 |               1 |                     0 |
+| utils_oob   |            2 | P9                 |               6 |                     1 |
+| utils_oob   |            3 | P3                 |               1 |                     0 |
+
+## FITNESS: evaluate_solution()
+| case                   |   pref_penalty |   capacity_viol |   elig_viol |   proj_underfill |   sup_underfill |   under_cap |   total |   gini_satisfaction |
+|:-----------------------|---------------:|----------------:|------------:|-----------------:|----------------:|------------:|--------:|--------------------:|
+| fitness_clean          |              3 |               0 |           0 |                0 |               0 |           0 |       3 |                   0 |
+| fitness_elig_violation |              3 |               0 |           1 |                0 |               0 |           0 |    1003 |                   0 |

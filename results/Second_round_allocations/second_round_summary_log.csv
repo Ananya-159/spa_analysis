@@ -1,0 +1,3 @@
+timestamp,run_id,tag,avg_rank,top1_pct,top3_pct,gini_satisfaction,pref_penalty,capacity_viol,elig_viol,under_cap,total_violations,runtime_sec,iterations_taken,repair_used,operator_seq,dataset_hash,proj_underfill,sup_underfill,fitness_total,num_students_reassigned,source_hc_run_id
+2025-08-22T22-24-50Z,sr_modeB_swap_only_2025-08-22T22-24-50Z,second_round,3.284313725490196,23.52941176470588,56.86274509803921,0.2842619897563246,335.0,6.0,5.0,1.0,12.0,8.756340299965814,800,0,modeB_swap_only,b650cee7,1.0,0.0,11355.0,37,c903f811
+2025-08-22T22-25-03Z,sr_modeB_swap_only_2025-08-22T22-25-03Z,second_round,2.8333333333333335,29.411764705882355,65.68627450980392,0.23038062283737026,289.0,5.0,9.0,1.0,15.0,10.48559599998407,800,0,modeB_swap_only,b650cee7,1.0,0.0,14309.0,25,975ab178

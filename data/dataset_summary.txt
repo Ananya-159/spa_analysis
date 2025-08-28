@@ -1,0 +1,10 @@
+- Total Students: 102
+- Total Projects: 37
+- Total Supervisors: 21
+- Mean GPA: 67.96
+- Client Eligible Students: 49.0%
+- Preference overlap (top 3): 100.0% of projects
+- Project Min Capacity: 1
+- Project Max Capacity: 5
+- Supervisor Max Student Capacity: 6
+- Supervisor Min Student Capacity: 1

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "This work is part of a Master's dissertation submission for The University of Manchester only. External use, redistribution, or citation is not permitted without explicit written permission from the author."
+title: "Optimising Student–Project Allocation Using Heuristic and Metaheuristic Techniques"
+author:
+  - family-names: Yadav
+    given-names: Ananya
+date-released: 2025-08-23
+version: "1.0.0"
+license: "All rights reserved – dissertation submission only"
+repository-code: "https://github.com/Ananya-159/spa_analysis"

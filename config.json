@@ -1,0 +1,18 @@
+{
+  "paths": {
+    "dataset": "data/SPA_Dataset_With_Min_Max_Capacity.xlsx",
+    "data_excel": "data/SPA_Dataset_With_Min_Max_Capacity.xlsx",
+    "results_dir": "results/Hill_climbing_runs"
+  },
+  "weights": {
+    "gamma_pref": 1.0,
+    "alpha_capacity": 1000.0,
+    "beta_eligibility": 1000.0,
+    "delta_under": 20.0
+  },
+  "num_preferences": 6,
+  "fig": {
+    "dpi": 200,
+    "style": "white"
+  }
+}

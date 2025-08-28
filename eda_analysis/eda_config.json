@@ -1,0 +1,25 @@
+{
+    "random_seed": 42,
+    "num_bins_average_hist": 10,
+    "allocated_preference_simulation": {
+        "distribution": [
+            0.4,
+            0.25,
+            0.15,
+            0.1,
+            0.06,
+            0.04
+        ]
+    },
+    "plot_colors": {
+        "primary": "#1f77b4",
+        "secondary": "#2ca02c",
+        "tertiary": "#ffcc00"
+    },
+    "heatmap_cmap": "Blues",
+    "output_formats": [
+        "png",
+        "pdf",
+        "svg"
+    ]
+}

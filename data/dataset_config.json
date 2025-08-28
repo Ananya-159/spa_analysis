@@ -1,0 +1,33 @@
+{
+    "random_seed": 42,
+    "num_students": 102,
+    "num_projects": 37,
+    "num_supervisors": 21,
+    "max_supervisor_capacity": 6,
+    "num_preferences": 6,
+    "num_courses": 3,
+    "project_types": [
+        "Research based",
+        "Client based",
+        "Student sourced"
+    ],
+    "course_names": [
+        "Course 1",
+        "Course 2",
+        "Course 3"
+    ],
+    "min_students_range": [
+        1,
+        2
+    ],
+    "max_students_range": [
+        2,
+        5
+    ],
+    "average_required_range": [
+        50,
+        75
+    ],
+    "client_eligibility_ratio": "random ~50%",
+    "use_second_round_flag": true
+}

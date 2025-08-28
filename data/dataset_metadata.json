@@ -1,0 +1,7 @@
+{
+  "title": "Synthetic SPA dataset",
+  "version": "0.1.0",
+  "generated_by": "data_generators/generate_spa_dataset.py",
+  "license": "UNLICENSED – Academic use only",
+  "description": "Synthetic dataset used for Student Project allocation (SPA) algorithm evaluation as part of dissertation research at The University of Manchester. Not intended for public distribution."
+}

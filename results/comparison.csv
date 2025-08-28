@@ -1,0 +1,8 @@
+﻿metric,metric_key,direction,Hill Climbing,Genetic Algorithm,Selector Hill Climbing,Best,KW_q,Stat_Sig
+Fitness Score (lower = better),fitness_score,lower,13326.5 [12359.75–14326],21167 [20661.5–21472],7304 [6701.5–7667],Selector Hill Climbing,0.0000,No
+Total Violations (lower = better),total_violations,lower,13.5 [12.25–14.75],75 [73–76],23 [21–24],Hill Climbing,0.0000,No
+Average Assigned Preference Rank (lower = better),avg_rank,lower,3.46 [3.17–3.69],3.56 [3.43–3.66],4.01 [3.9–4.09],Hill Climbing,0.0000,No
+Fairness — Gini Satisfaction (lower = fairer),gini_satisfaction,lower,0.31 [0.28–0.33],0.28 [0.27–0.29],0.36 [0.35–0.36],Genetic Algorithm,0.0000,No
+Top-1 Preference Match (%) (higher = better),top1_pct,higher,22.55 [19.61–29.41],15.69 [12.75–18.63],14.71 [12.75–18.38],Hill Climbing,0.0000,No
+Top-3 Preference Match (%) (higher = better),top3_pct,higher,52.45 [49.02–58.33],48.53 [44.12–50.98],41.67 [39.22–44.12],Hill Climbing,0.0000,No
+"Runtime (seconds, lower = better)",runtime_sec,lower,44.89 [41.88–56.42],79.61 [78.97–85.89],47.79 [45.97–65.19],Hill Climbing,0.0000,No

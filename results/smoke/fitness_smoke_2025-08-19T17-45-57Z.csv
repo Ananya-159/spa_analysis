@@ -1,0 +1,3 @@
+case,pref_penalty,capacity_viol,elig_viol,proj_underfill,sup_underfill,under_cap,total,gini_satisfaction
+fitness_clean,3,0,0,0,0,0,3.0,0.0
+fitness_elig_violation,3,0,1,0,0,0,1003.0,0.0
